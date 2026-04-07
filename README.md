@@ -1,8 +1,7 @@
 ## Hi I'm whyP762 👋
 
-<!-- 动态打字效果，让首页“活”起来 -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=2E9AFF&center=false&vCenter=true&width=435&lines=C%2FC%2B%2B+%7C+Embedded+Engineer;RTOS+%26+BSP+Developer;Base+in+China+🇨🇳" alt="Typing SVG" />
+  <img src="https://typingsvg.vercel.app/api?text=C/C+++|Embedded+Engineer|RTOS+&+BSP+Developer|Base+in+China+🇨🇳" />
 </p>
 
 ---
