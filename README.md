@@ -24,11 +24,7 @@
 
 ### 📊 GitHub Stats
 
-<!-- 自动统计卡片，让你的贡献一目了然 -->
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whyP762&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyP762&layout=compact&theme=radical&hide_border=true" />
-</p>
+![GitHub 贡献](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whyP762&theme=github_dark)
 
 ---
 
