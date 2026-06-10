@@ -72,5 +72,4 @@
 
   ### 📊 GitHub Stats
 
-  [![whyP762's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whyP762&theme=reac
-  t-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![whyP762's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whyP762&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
