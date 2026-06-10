@@ -37,12 +37,9 @@
 
   | Project | Platform | Description |
   | :--- | :--- | :--- |
-  | [ESP32 Host PC](https://github.com/504lib/learnlib/tree/main/ZK_Lib/esp32_hurbmechine) | ESP32 |
-  配套上位机软件，蓝牙/WiFi 通信 |
-  | [ESP32-C3 主从架构](https://github.com/504lib/learnlib/tree/main/ZK_Lib/ESP32C3) | ESP32-C3 | AirM2M
-  核心板主从通信方案 |
-  | [ESP32-S3 LVGL](https://github.com/504lib/learnlib/tree/main/ZK_Lib/ESP32_S3) | ESP32-S3 | 显示触摸 + LVGL
-  图形库移植 |
+  | [ESP32 Host PC](https://github.com/504lib/learnlib/tree/main/ZK_Lib/esp32_hurbmechine) | ESP32 |配套上位机软件，蓝牙/WiFi 通信 |
+  | [ESP32-C3 主从架构](https://github.com/504lib/learnlib/tree/main/ZK_Lib/ESP32C3) | ESP32-C3 | AirM2M核心板主从通信方案 |
+  | [ESP32-S3 LVGL](https://github.com/504lib/learnlib/tree/main/ZK_Lib/ESP32_S3) | ESP32-S3 | 显示触摸 + LVGL图形库移植 |
   | [LVGL H7](https://github.com/504lib/learnlib/tree/main/ZK_Lib/LVGL_H7) | STM32H7 | LVGL 图形库 H7 平台移植 |
   | [F407 FreeRTOS](https://github.com/504lib/learnlib/tree/main/ZK_Lib/F407_FreeRtos) | STM32F407 | FreeRTOS 多任务实践|
   | [RTOS + LVGL](https://github.com/504lib/learnlib/tree/main/ZK_Lib/RTOS_LVGL) | STM32 | FreeRTOS 与 LVGL 集成方案 |
